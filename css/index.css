@@ -276,7 +276,7 @@ ul {
 }
 
 #socialMidia img {
-    width: 25px;
+    width: 20px;
     margin: 10px 10px 0 0;
 }
 
@@ -296,6 +296,7 @@ ul {
 
     #socialMidia img {
         margin: 10px 20px 0 0;
+        width: 25px;
     }
 
     footer {
@@ -327,5 +328,9 @@ ul {
     }
     p.mn-hamb{
         display: none;
+    }
+    #socialMidia img {
+        margin: 10px 20px 0 0;
+        width: 25px;
     }
 }
