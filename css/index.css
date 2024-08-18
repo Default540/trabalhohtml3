@@ -38,7 +38,9 @@ h1 {
     font-size: 2em;
     margin: 20px;
 }
-
+h2{
+    font-size: 1.5rem !important;
+}
 p {
     margin: 0;
 }
@@ -280,6 +282,9 @@ ul {
 
 /*tela mediana*/
 @media (min-width: 992px) {
+    h2{
+        font-size: 2rem !important;
+    }
     #logo {
         width: 80px;
         height: 80px;
@@ -305,6 +310,9 @@ ul {
 
 /*tela grande*/
 @media (min-width: 1024px) {
+    h2{
+        font-size: 2rem !important;
+    }
     #logo {
         width: 70px;
         height: 70px;
